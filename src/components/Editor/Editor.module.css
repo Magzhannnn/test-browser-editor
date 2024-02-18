@@ -1,0 +1,3 @@
+.size {
+  @apply h-[400px] p-2.5 w-1/2 bg-slate-200 rounded-r-lg;
+}

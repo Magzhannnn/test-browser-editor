@@ -1,0 +1,7 @@
+.info {
+  @apply flex flex-col gap-2.5;
+}
+
+.code_editor {
+  @apply flex items-center border border-gray-600 rounded-lg;
+}

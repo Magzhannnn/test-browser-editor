@@ -1,0 +1,6 @@
+.green_btn {
+  @apply py-1 px-5 bg-green-400 text-white rounded-md cursor-pointer;
+}
+.red_btn {
+  @apply py-1 px-5 bg-red-400 text-white rounded-md cursor-pointer;
+}
